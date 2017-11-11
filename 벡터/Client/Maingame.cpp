@@ -2,7 +2,7 @@
 #include "Maingame.h"
 #include "Player.h"
 #include "Monster.h"
-
+//¿ÀÀ×.
 CMaingame::CMaingame()
 	: m_pPlayer(nullptr), m_pMonster(nullptr)
 {
